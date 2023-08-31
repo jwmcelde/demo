@@ -1,1 +1,4 @@
 Hello,
+
+Here's a quick demo on how to push to a github repo
+It's easy (theoretically)
